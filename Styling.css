@@ -23,3 +23,9 @@ button {
     font-size: 'large';
     font-weight: bolder;
 }
+
+input {
+    font-family: 'Roboto', sans-serif;
+    font-size: 'large';
+    font-weight: bold;
+}
